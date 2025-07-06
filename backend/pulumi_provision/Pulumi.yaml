@@ -1,0 +1,4 @@
+
+name: pulumi-provision
+runtime: python
+description: A simple Pulumi project to provision AWS S3 bucket
